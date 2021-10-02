@@ -1,0 +1,12 @@
+Songs {
+	color: #000;
+	font-size: 20px;
+}
+
+Song, songname, artist, genre, year {
+	display: block;
+}
+
+songname {
+	font-weight: bold;
+}

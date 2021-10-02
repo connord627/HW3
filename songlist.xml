@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<Songs>
+	<Song>
+
+		<songname>"Thriller"</songname>
+
+		<artist>Michael Jackson</artist>
+
+		<genre>Pop</genre>
+
+		<year>1982 </year>
+	</Song>
+	
+	
+	<Song>
+
+		<songname>"Bohemian Rhapsody"</songname>
+
+		<artist>Queen</artist>
+
+		<genre>Rock</genre>
+
+		<year>1975</year>
+	</Song>
+
+	<Song>
+
+		<songname>"Lose Yourself"</songname>
+
+		<artist>Eminem</artist>
+
+		<genre>Rap</genre>
+
+		<year>2002</year>
+	</Song>
+	
+	<Song>
+
+		<songname>"Billie Jean"</songname>
+
+		<artist>Michael Jackson</artist>
+
+		<genre>Pop</genre>
+
+		<year>1982</year>
+	</Song>
+
+	<Song>
+
+		<songname>"Walk This Way"</songname>
+
+		<artist>Aerosmith</artist>
+
+		<genre>Rock</genre>
+
+		<year>1986</year>
+	</Song>
+
+	<Song>
+
+		<songname>"Baby"</songname>
+
+		<artist>Justin Beiber</artist>
+
+		<genre>Pop</genre>
+
+		<year>2010</year>
+	</Song>
+
+	<Song>
+
+		<songname>"California Gurls"</songname>
+
+		<artist>Katy Perry</artist>
+
+		<genre>Pop</genre>
+
+		<year>2010</year>
+	</Song>
+
+	<Song>
+
+		<songname>"Industry Baby"</songname>
+
+		<artist>Lil Nas X</artist>
+
+		<genre>Rap</genre>
+
+		<year>2021</year>
+	</Song>
+
+	<Song>
+
+		<songname>"God's Plan"</songname>
+
+		<artist>Drake</artist>
+
+		<genre>Rap</genre>
+
+		<year>2018</year>
+	</Song>
+	
+	<Song>
+
+		<songname>"Sicko Mode"</songname>
+
+		<artist>Travis Scott</artist>
+
+		<genre>Rap</genre>
+
+		<year>1982</year>
+	</Song>
+
+</Songs>
